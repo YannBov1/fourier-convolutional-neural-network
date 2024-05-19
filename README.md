@@ -5,5 +5,6 @@ In [layers.py](layers.py) The implementations of the different layers needed to 
 - Fourier pooling layer
 - PhaseReLU activation function
 - FFT and IFFT layer
-<br>
-An example of spatial CNN and its FCNN equivalen has also been provided in [example_models.py](example_models.py)
+
+
+An example of spatial CNN and its FCNN equivalen has also been provided in [example_models.py](example_models.py) .
